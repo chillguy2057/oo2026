@@ -1,3 +1,6 @@
-Õppejõu käest valitud kolme tasemega kontrolltööülesanne.
-
-Punktid võib esitada eraldi programmidena
+Akvaarium Loo klass akvaariumi tarbeks. Konstruktori sisendiks pikkus, laius ja kõrgus (cm). 
+Koosta käsklus ruumala väljastamiseks.  
+Akvaariumi eksemplar hoiab meeles sees hoitava vee kogust. 
+Käsuga saab vett lisada. Käsuga saab küsida, et kui palju on selles akvaariumis vett.  
+Akvaariume on mitu. Koosta käsklus määratud koguse vee valamiseks ühest akvaariumist teise. 
+Kui akvaariumi servani jääb vähem kui kaks vaba sentimeetrit, väljastatakse hoiatus.
